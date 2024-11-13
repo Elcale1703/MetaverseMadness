@@ -25,7 +25,7 @@ const Footer = () => (
             METAVERSUS
           </h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © 2024 J&MFreelance. All rights reserved.
+            Copyright © 2024 J&MSolutions. All rights reserved.
           </p>
           <div className="flex gap-4">
             {socials.map((social) => (
